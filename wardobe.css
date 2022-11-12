@@ -1,0 +1,22 @@
+h1{
+    font-size: 5rem;
+    -webkit-text-stroke: 2px #fff;
+    color: transparent;
+
+    font-family: 'Anton', sans-serif;
+}
+body{
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+}
+button{
+   background-color: black;
+   -webkit-text-stroke: 1px #fff;
+    color: transparent;
+font-size: 3rem;
+    font-family: 'Anton', sans-serif;
+}
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+
